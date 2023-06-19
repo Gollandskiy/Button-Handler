@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Обработчик кнопки", "Обработчик кнопки.csproj", "{7EBB5577-964E-4960-B0C7-36D0F270864A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EBB5577-964E-4960-B0C7-36D0F270864A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EBB5577-964E-4960-B0C7-36D0F270864A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EBB5577-964E-4960-B0C7-36D0F270864A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EBB5577-964E-4960-B0C7-36D0F270864A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B3578EB-6F4A-479D-ABB7-F85C918815A3}
+	EndGlobalSection
+EndGlobal
